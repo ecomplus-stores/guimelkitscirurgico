@@ -8,18 +8,18 @@
       "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/banner.jpg",
+          "img": "/img/uploads/banner.webp",
           "link": "",
           "alt": "image banner",
           "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/banner-mobile.jpg"
+          "mobile_img": "/img/uploads/banner-mobile.webp"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner.jpg",
-          "mobile_img": "/img/uploads/banner-mobile.jpg",
+          "img": "/img/uploads/banner.webp",
+          "mobile_img": "/img/uploads/banner-mobile.webp",
           "alt": "image banner"
         }
       ]
