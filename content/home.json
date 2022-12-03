@@ -9,11 +9,18 @@
       "slides": [
         {
           "img": "/img/uploads/banner.jpg",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2022-12-03T00:20:56.728Z",
-          "end": "2022-12-03T00:20:58.472Z",
+          "link": "",
+          "alt": "image banner",
+          "start": "",
+          "end": "",
           "mobile_img": "/img/uploads/banner-mobile.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner.jpg",
+          "mobile_img": "/img/uploads/banner-mobile.jpg",
+          "alt": "image banner"
         }
       ]
     },
