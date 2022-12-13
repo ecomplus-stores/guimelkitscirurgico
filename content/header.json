@@ -12,9 +12,12 @@
   },
   "categories_list": {
     "featured": [
-      "/173127?AVENTAIS DESCÁRTAVEIS"
+      "/173127?AVENTAIS DESCÁRTAVEIS",
+      "/pages/feedback-do-cliente?Feedback dos Clientes",
+      "/pages/feedback-do-cliente?Feedback dos Clientes",
+      "/pages/feedback-do-cliente?Feedback dos Clientes"
     ],
-    "random": 2,
+    "random": 4,
     "full_width": true
   },
   "desktop_megamenu": true,
