@@ -35,7 +35,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "collection_id": "619391050c7c727225846134:collections:KIT IMPLANTE BUCO ESTÉRIL:/kit-implante-buco-esteril",
       "sort": "offers",
       "title": "",
