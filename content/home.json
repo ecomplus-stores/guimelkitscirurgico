@@ -42,6 +42,15 @@
       "headless": false,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": "",
+      "page": 1,
+      "collection_id": "619fc7180c7c7272259ba7c2:categories:Feedback dos Clientes:/pages/feedback-do-cliente",
+      "headless": false,
+      "sort": "slug"
     }
   ]
 }
