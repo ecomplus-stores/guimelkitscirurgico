@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.6264015c18acdfeb3e96fee2d0595a32.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.01fdb879763a3fa47faeebf6e32c763b.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.8785af19f3a1004a4893afcc77603ace.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.3b6da34cada189c3546ac0302fbe822e.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.63b9f0ee07e81a59dfb14fbcd384a203.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Guimel Kits Cirúrgicos",
+  "short_name": "guimelkitscirurgico",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "guimelkitscirurgico ",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
